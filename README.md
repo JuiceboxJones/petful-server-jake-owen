@@ -1,9 +1,6 @@
 # Pet Adopter
 
 ## Jake Derhalli & Owen Cyr
-the client can be found here:
-
-https://github.com/JuiceboxJones/petful-client-jake-owen/
 
 ## Deployed Links
 
